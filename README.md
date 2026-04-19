@@ -12,7 +12,7 @@ This project uses a transformer model (DistilBERT) to classify text sentiment.
 - PyTorch
 
 ## 📊 Results
-The model achieves strong accuracy on the IMDB dataset.
+The model achieves strong accuracy of 87.8%.
 
 ## 🚀 How to Run
 Open the notebook and run all cells in Google Colab.
